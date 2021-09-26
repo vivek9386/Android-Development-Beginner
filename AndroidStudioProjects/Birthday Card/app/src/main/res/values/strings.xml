@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="create_card">Create Card</string>
+    <string name="vivek">Vivek</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="happy_birthday">Happy Birthday</string>
+</resources>
